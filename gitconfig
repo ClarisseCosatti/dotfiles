@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = clarisse.cosatti@gmail.com
+	name = Clarisse Cosatti
